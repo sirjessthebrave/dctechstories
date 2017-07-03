@@ -14,10 +14,10 @@ author: jessb
 
 
 <p><strong>Twitter:</strong> <a href="https://twitter.com/ByteBackDC ">https://twitter.com/ByteBackDC </a></p> 
-<p><strong>Website:</strong><a href="https://byteback.org/">byteback.org</a></p>
+<p><strong>Website:</strong> <a href="https://byteback.org/">byteback.org</a></p>
 <p><strong>Press:</strong>
     <ul class="no-bullets">
     <li><a class="red"  href="http://dcinno.streetwise.co/2017/04/06/how-byte-back-is-helping-bridge-the-districts-digital-divide/">DC Inno: How Byte Back bridges the digital divide</a></li>
-     <li><a class="red"  href=" https://technical.ly/dc/2017/03/29/byte-back-wins-big-inaugural-wework-creator-awards/ ">Technnically: Byte Back Wind WeWork Creator Awards</a></li>
+     <li><a class="red"  href="https://technical.ly/dc/2017/03/29/byte-back-wins-big-inaugural-wework-creator-awards/ ">Technnically: Byte Back Wind WeWork Creator Awards</a></li>
     </ul> 
 </p>
