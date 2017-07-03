@@ -1,18 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>DCTechStories</title>
-	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,700" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="style.css">
-
-</head>
-<body class="main-stage">
-	<h1>DC Tech Stories</h1>
-	<h2>Anecdotes from the capital's tech scene</h2>
-	<h2 class="nav"><a href="about.html">About</a> | <a href="episodes.html">Episodes</a></h2>
-	<img src="flag.png">
-	<footer>
-		<p><a href="https://goo.gl/forms/rJjvRAW5bcmI6K7g2">Nominate</a> someone to tell their story | <a href="mailto:dctechstories@gmail.com">Email</a> or <a href="https://twitter.com/DC_techstories">Tweet</a> us for more info</p>
-	</footer>
-</body>
-</html>
+---
+bg: "dcHouses.jpg"
+layout: default
+crawlertitle: "DC Tech Stories"
+title: "DC Tech Stories"
+summary: ""
+---
+<h1>Episodes Coming in July!!</h1>
+{% for post in site.posts %}
+  {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if year == "2017" %}
+  <article class="index-page">
+    <h2><a href="/dctechstories{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+  </article>
+  {% endif %}
+{% endfor %}
