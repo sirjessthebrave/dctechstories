@@ -24,3 +24,10 @@ active: about
   <p>Mitchell Shelton is an accomplished programmer who currently works at NASA. When not creating web software, Mitchell creates chip tune and electronic music. You can find his music on <a href="http://juncmodule.com/">BandCamp</a> Mitchell is a femnist punk rock enthusist, a mentor for up and coming techies, arhitectural photographer, and general noise maker.</p>
   <p><a href="https://github.com/mitchellshelton">GitHub</a> | <a href="http://www.mitchellshelton.com/">Personal Site</a> | <a href="https://twitter.com/MitchellShelton">Twitter</a></p>
 </div>
+
+<h3>More about Rae</h3>
+<div class="about-img-wrapper"><img class="about-img" src="{{site.url}}/assets/images/rae.png"></div>
+<div class="about-text">
+  <p>Rae is a multimedia producer turned developer who thinks in frequencies and functions. She enjoys creating podcasts, music and videos just as much as building websites and software. A recent convert to coding, Rae has TA'd with Hear Me Code and can be seen scouting DC for the best spot in which to hunker down in front of her keyboard. When she's not de-bugging or playing with sound waves, Rae is a local organizer and musician who enjoys coffee and pop punk.</p>
+  <p><a href="https://github.com/rudietuesdays/">GitHub</a> | <a href="http://raegaines.com">Personal Site</a> | <a href="https://twitter.com/rudietoos">Twitter</a></p>
+</div>
