@@ -5,11 +5,13 @@ crawlertitle: "DC Tech Stories"
 title: "DC Tech Stories"
 summary: ""
 ---
-<h1>Listen on the following platforms:
-	<a href="">Google Play</a>
-	<a href="">iTunes</a>
-	<a href="">RSS</a>
-</h1>
+<small>Listen on the following platforms:
+	<a href="https://play.google.com">Google Play</a>
+	<a href="https://www.apple.com/itunes/">iTunes</a>
+	<a href="https://www.buzzsprout.com/108546.rss">RSS</a>
+</small>
+<br>
+<h2>Episodes</h2>
 {% for post in site.posts %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if year == "2017" %}
