@@ -16,7 +16,7 @@ summary: ""
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if year == "2017" %}
   <article class="index-page">
-    <h2><a href="/dctechstories{{ post.url }}">{{ post.title }}</a></h2>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     {{ post.excerpt }}
   </article>
   {% endif %}
