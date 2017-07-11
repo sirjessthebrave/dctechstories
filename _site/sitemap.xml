@@ -3,6 +3,15 @@
 
   
   <url>
+    <loc>http://dctechstories.com//posts/brianJ/</loc>
+    
+      <lastmod>2017-07-11</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>http://dctechstories.com//posts/joyW/</loc>
     
       <lastmod>2017-07-05</lastmod>
@@ -51,15 +60,6 @@
     <loc>http://dctechstories.com//posts/elizabethL/</loc>
     
       <lastmod>2016-08-09</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dctechstories.com//posts/brianJ/</loc>
-    
-      <lastmod>2016-08-02</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
