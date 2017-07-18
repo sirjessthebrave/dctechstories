@@ -3,6 +3,15 @@
 
   
   <url>
+    <loc>http://dctechstories.com//posts/bcc/</loc>
+    
+      <lastmod>2017-07-19</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>http://dctechstories.com//posts/brianJ/</loc>
     
       <lastmod>2017-07-11</lastmod>
@@ -69,15 +78,6 @@
     <loc>http://dctechstories.com//posts/monicaL/</loc>
     
       <lastmod>2016-07-26</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dctechstories.com//posts/bcc/</loc>
-    
-      <lastmod>2016-07-19</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
