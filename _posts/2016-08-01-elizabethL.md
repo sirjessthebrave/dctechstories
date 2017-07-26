@@ -4,12 +4,12 @@ layout: post
 title:  "Elizabeth Lindsey: School's in Session"
 crawlertitle: "DC Tech Stories: Elizabeth Lindsey"
 summary: "DC Tech Stories: Elizabeth Lindsey: School's in Session"
-date:   2016-08-09 20:09:47 +0700
+date:   2016-08-01 20:09:47 +0700
 categories: posts
 tags: ['']
 author: jessb
 ---
-
+<script src="https://www.buzzsprout.com/108546/542271-elizabeth-lindsey-school-s-in-session.js?player=small" type="text/javascript" charset="utf-8"></script>
 <p class="no-margin">Byte Back transforms lives by training unemployed and underemployed adults with limited access to technology and helping them move into living-wage careers that use technology. It's one of the only organizations in the country providing all levels of tech training for free to low-tech communities. Get involved at byteback.org or by calling (202) 529-3395.</p>
 
 
