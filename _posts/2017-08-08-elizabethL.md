@@ -4,7 +4,7 @@ layout: post
 title:  "Elizabeth Lindsey: School's in Session"
 crawlertitle: "DC Tech Stories: Elizabeth Lindsey"
 summary: "DC Tech Stories: Elizabeth Lindsey: School's in Session"
-date:   2016-08-08 20:09:47 +0700
+date:   2017-08-08 20:09:47 +0700
 categories: posts
 tags: ['']
 author: jessb
