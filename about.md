@@ -13,7 +13,7 @@ active: about
   <h3>More about Jessica</h3>
   <div class="about-img-wrapper"><img class="about-img" src="{{site.url}}assets/images/jess.jpg"></div>
   <div class="about-text">
-    <p>Jessica is a front end web developer at the Washington Post. She helps to run <a href="https://dcfemtech.github.io/">DCFemTech</a> and <a href="https://www.meetup.com/DC-Tech-Meetup/">DC Tech Meetup</a> and is an active member of <a href="https://www.meetup.com/Women-Who-Code-DC/">Women Who Code</a>.  Jessica is an active speaker and organizer focusing her work on general technical literacy for all and equality in the tecnical field.  She also teaches at General Assembly.  Jessica love to explore, host fabulous dinner parties, beg her partner for a cat, and post gifs.</p>
+    <p>Jessica is a front end web developer at the Washington Post. She helps to run <a href="https://dcfemtech.github.io/">DCFemTech</a> and <a href="https://www.meetup.com/DC-Tech-Meetup/">DC Tech Meetup</a> and is an active member of <a href="https://www.meetup.com/Women-Who-Code-DC/">Women Who Code</a>.  Jessica is an active speaker and organizer focusing her work on general technical literacy for all and equality in the tecnical field.  She also teaches at General Assembly.  Jessica loves to explore, host fabulous dinner parties, beg her partner for a cat, and post gifs.</p>
 
     <p><a href="https://twitter.com/SirJesstheBrave">Twitter</a> | <a href="http://sirjessthebrave.github.io/">Personal Site</a> | <a href="https://github.com/sirjessthebrave">GitHub</a></p>
   </div>
