@@ -1,5 +1,5 @@
 ---
-bg: "rosselleS.jpg"
+bg: "roselleS.jpg"
 layout: post
 title:  "Roselle Safran: The winding path"
 crawlertitle: "DC Tech Stories: Roselle Safran"
