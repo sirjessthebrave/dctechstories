@@ -14,11 +14,23 @@ summary: ""
 	<a href="https://www.buzzsprout.com/108546.rss">RSS</a> 
 </small>
 <br>
-<h2>Help us make DC Tech Stories Season 2!</h2>
-<p>Season One has come to a close! We hope you enjoyed the stories. We are now sourcing stories and funding for Season 2!! We have custom advertisment packages for those who would like to sponsor an episode! Please email us at <a href="mailto:dctechstories@gmail.com">dctechstories@gmail.com</a> for more information!</p>
-<div>
-<script src="https://www.buzzsprout.com/108546/567138-so-long-farewell-until-we-meet-again.js?player=small" type="text/javascript" charset="utf-8"></script>
+<h2>DC Tech Stories Season 2 Sponsored by Optoro!</h2>
+<div style="width: 50%; margin: 0 auto;" >
+  <img src="assets/images/optoro-logo.png" style="width: 100%;"/>
 </div>
+<p>A giant thank you to <a href="https://www.optoro.com/" target="_blank">Optoro</a> for sponsoring the WHOLE Season 2 of DC Tech Stories. Optoro offers a superior end-to-end reverse logistics solution that helps retailers and brands manage, process and disposition returned and excess inventory, from first touch. Visit their website for careers, services, and stories! THANK YOU OPTORO! </p>
+
+<h2>Season 2 Drops May 1st 2018!!</h2>
+{% for post in site.posts %}
+  {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if year == "2018" %}
+  <article class="index-page">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+  </article>
+  {% endif %}
+{% endfor %}
+
 <h2>Season 1</h2>
 {% for post in site.posts %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
