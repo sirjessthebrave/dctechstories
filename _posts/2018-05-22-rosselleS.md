@@ -4,7 +4,7 @@ layout: post
 title:  "Roselle Safran: The winding path"
 crawlertitle: "DC Tech Stories: Roselle Safran"
 summary: "Roselle Safran: The winding path"
-date:   2018-05-22 20:09:47 +0700
+date:   2019-05-22 20:09:47 +0700
 categories: posts
 tags: ['']
 author: jessb
