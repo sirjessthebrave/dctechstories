@@ -1,5 +1,5 @@
 ---
-bg: "roselleS.jpg"
+bg: "designMusketeers.jpg"
 layout: post
 title:  "Sam Bays, Kasey Randall, & Vincent Wanga: The Three Musketeers of Desig"
 crawlertitle: "DC Tech Stories: Sam Bays, Kasey Randall, & Vincent Wanga"
