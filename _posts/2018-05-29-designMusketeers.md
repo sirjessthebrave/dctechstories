@@ -1,9 +1,9 @@
 ---
 bg: "designMusketeers.jpg"
 layout: post
-title:  "Sam Bays, Kasey Randall, & Vincent Wanga: The Three Musketeers of Desig"
+title:  "Sam Bays, Kasey Randall, & Vincent Wanga: The Three Musketeers of Design"
 crawlertitle: "DC Tech Stories: Sam Bays, Kasey Randall, & Vincent Wanga"
-summary: "Sam Bays, Kasey Randall, & Vincent Wanga: The Three Musketeers of Desig"
+summary: "Sam Bays, Kasey Randall, & Vincent Wanga: The Three Musketeers of Design"
 date:   2019-05-29 20:09:47 +0700
 categories: posts
 tags: ['']
