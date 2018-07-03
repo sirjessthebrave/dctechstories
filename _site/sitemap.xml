@@ -3,6 +3,15 @@
 
   
   <url>
+    <loc>http://dctechstories.com//posts/designSystesm/</loc>
+    
+      <lastmod>2018-07-03</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>http://dctechstories.com//posts/usds/</loc>
     
       <lastmod>2018-06-26</lastmod>
@@ -21,16 +30,7 @@
   </url>
   
   <url>
-    <loc>http://dctechstories.com//posts/designMusketeers/</loc>
-    
-      <lastmod>2018-06-03</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dctechstories.com//posts/designSystems/</loc>
+    <loc>http://dctechstories.com//posts/ioSpaces/</loc>
     
       <lastmod>2018-05-29</lastmod>
     
@@ -39,7 +39,7 @@
   </url>
   
   <url>
-    <loc>http://dctechstories.com//posts/ioSpaces/</loc>
+    <loc>http://dctechstories.com//posts/designMusketeers/</loc>
     
       <lastmod>2018-05-29</lastmod>
     
