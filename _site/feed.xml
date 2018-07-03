@@ -6,8 +6,8 @@
 </description>
     <link>http://dctechstories.com//</link>
     <atom:link href="http://dctechstories.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Jun 2018 12:55:54 -0400</pubDate>
-    <lastBuildDate>Mon, 25 Jun 2018 12:55:54 -0400</lastBuildDate>
+    <pubDate>Tue, 03 Jul 2018 09:44:28 -0400</pubDate>
+    <lastBuildDate>Tue, 03 Jul 2018 09:44:28 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -49,7 +49,7 @@
 &lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 26 Jun 2019 09:09:47 -0400</pubDate>
+        <pubDate>Tue, 26 Jun 2018 09:09:47 -0400</pubDate>
         <link>http://dctechstories.com//posts/usds/</link>
         <guid isPermaLink="true">http://dctechstories.com//posts/usds/</guid>
         
@@ -96,41 +96,50 @@ Kristen served as IBM’s first chief global security officer and then went on t
       </item>
     
       <item>
-        <title>Leslie, Shiela, and Brian: Community, Startups, and the African Diaspora in the DMV</title>
-        <description>&lt;p class=&quot;no-margin&quot;&gt;Today our episode features Leslie, Shiela, and Brian of IO Spaces. Leslie is the co founder and managing partner of I/O spacer in Silver Spring. He has an infectious personality, with a big smile, cameroonian accent, and never ending positivity, it’s not a hard stretch to picture him as a community organizer. He brought with him Shiela, who after a few moments in a room radiates passion and excitement - you can tell this woman knows her stuff. As one of Leslie’s first IO Spaces residents, she shares how she has watched the community grow and evolve. Brian also joined us to talk about his role as a teacher and mentor with the new IO Spaces programming which focuses on skills training. Wanna learn SEO? Now you know where to start! The group shares their thoughts on community building, the intersections of tech and culture, and why IO Spaces is different.
+        <title>Elizabeth Barth, Dan Rader, Jabali Williams, Mariesa Dale: Design Systems</title>
+        <description>&lt;p class=&quot;no-margin&quot;&gt;According to InVision’s Comprehensive Guide to Design Systems, “A design system is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.” So what does that mean for us techies? How doe tech companies create, utilize, and enforce these systems? Frankly I had no idea - so I brought in the experts! Elizabeth Barth: Creative Director, ThreeSpot Dan Rader: Interactive Art Director ISL Jabali Williams: Director of User Experience at CHIEF Mariesa Dale: Manager, Product Design Pivotal Labs DC They walked me through how they think of design systems, some pros and cons, and how their companies put them into practice.
 &lt;/p&gt;
-&lt;script src=&quot;https://www.buzzsprout.com/108546/705287-leslie-shiela-and-brian-community-startups-and-the-african-diaspora-in-the-dmv.js?player=small&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.buzzsprout.com/108546/735322-elizabeth-barth-dan-rader-jabali-williams-mariesa-dale-design-systems.js?player=small&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;
   &lt;strong&gt;Links:&lt;/strong&gt; 
   &lt;ul&gt;
     &lt;li&gt;
-      &lt;i&gt;Shiela Kasasa&lt;/i&gt;
+      &lt;i&gt;Elizabeth Barth&lt;/i&gt;
         &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;https://twitter.com/sheilakasasa&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://twitter.com/elizabethbarth&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;Elizabethbarth.com&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;
-      &lt;i&gt;Leslie Tita&lt;/i&gt;
+      &lt;i&gt;Dan Rader&lt;/i&gt;
         &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;https://twitter.com/titaleslie&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;http://leslietita.com/ &quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://twitter.com/danrdesign &quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;danrdesign.com&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;
-      &lt;i&gt;IO Spaces&lt;/i&gt;
+      &lt;i&gt;Jabali Williams&lt;/i&gt;
         &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;https://twitter.com/IOSpaces&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;https://iospaces.com/&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://twitter.com/jawidesign&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://agencychief.com/team/jabali-williams&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;i&gt;Mariesa Dale&lt;/i&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://twitter.com/MariesaKDale
+&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/mkdale/&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
 &lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 29 May 2018 09:09:47 -0400</pubDate>
-        <link>http://dctechstories.com//posts/ioSpaces/</link>
-        <guid isPermaLink="true">http://dctechstories.com//posts/ioSpaces/</guid>
+        <pubDate>Sun, 03 Jun 2018 09:09:47 -0400</pubDate>
+        <link>http://dctechstories.com//posts/designMusketeers/</link>
+        <guid isPermaLink="true">http://dctechstories.com//posts/designMusketeers/</guid>
         
         <category></category>
         
@@ -174,8 +183,8 @@ Kristen served as IBM’s first chief global security officer and then went on t
 
 </description>
         <pubDate>Tue, 29 May 2018 09:09:47 -0400</pubDate>
-        <link>http://dctechstories.com//posts/designMusketeers/</link>
-        <guid isPermaLink="true">http://dctechstories.com//posts/designMusketeers/</guid>
+        <link>http://dctechstories.com//posts/designSystems/</link>
+        <guid isPermaLink="true">http://dctechstories.com//posts/designSystems/</guid>
         
         <category></category>
         
@@ -185,17 +194,41 @@ Kristen served as IBM’s first chief global security officer and then went on t
       </item>
     
       <item>
-        <title>Roselle Safran: The winding path</title>
-        <description>&lt;p class=&quot;no-margin&quot;&gt;Roselle Safran describes herself on twitter as ‘mother, entrepreneur, cybersecurity specialist, world traveler’. After my friend Amelia Friedman (season 1 episode 9) told me about Roselle I knew I wanted to hear her story. A background in science, blind applying for a job in whatever cyber forensics is, traveling the world, and starting her own company, Roselle seemed like a wonder woman… how did she get there, what has helped her be so successful, does she sleep?? Turns out Roselle is a pretty down to earth lady with an overwhelming urge to learn and experience. It always gives me joy to listen to how normal people get to extraordinary places... maybe that means we are all superwomen!&lt;/p&gt;
-&lt;script src=&quot;https://www.buzzsprout.com/108546/684364-roselle-safran-the-winding-path.js?player=small&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        <title>Leslie, Shiela, and Brian: Community, Startups, and the African Diaspora in the DMV</title>
+        <description>&lt;p class=&quot;no-margin&quot;&gt;Today our episode features Leslie, Shiela, and Brian of IO Spaces. Leslie is the co founder and managing partner of I/O spacer in Silver Spring. He has an infectious personality, with a big smile, cameroonian accent, and never ending positivity, it’s not a hard stretch to picture him as a community organizer. He brought with him Shiela, who after a few moments in a room radiates passion and excitement - you can tell this woman knows her stuff. As one of Leslie’s first IO Spaces residents, she shares how she has watched the community grow and evolve. Brian also joined us to talk about his role as a teacher and mentor with the new IO Spaces programming which focuses on skills training. Wanna learn SEO? Now you know where to start! The group shares their thoughts on community building, the intersections of tech and culture, and why IO Spaces is different.
+&lt;/p&gt;
+&lt;script src=&quot;https://www.buzzsprout.com/108546/705287-leslie-shiela-and-brian-community-startups-and-the-african-diaspora-in-the-dmv.js?player=small&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;strong&gt;Twitter:&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/rosellesafran   &quot;&gt;https://twitter.com/rosellesafran   &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Press:&lt;/strong&gt; &lt;a href=&quot;https://www.crunchbase.com/person/roselle-safran &quot;&gt;https://www.crunchbase.com/person/roselle-safran   &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;strong&gt;Links:&lt;/strong&gt; 
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;i&gt;Shiela Kasasa&lt;/i&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://twitter.com/sheilakasasa&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;i&gt;Leslie Tita&lt;/i&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://twitter.com/titaleslie&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://leslietita.com/ &quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;i&gt;IO Spaces&lt;/i&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://twitter.com/IOSpaces&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://iospaces.com/&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 22 May 2018 09:09:47 -0400</pubDate>
-        <link>http://dctechstories.com//posts/rosselleS/</link>
-        <guid isPermaLink="true">http://dctechstories.com//posts/rosselleS/</guid>
+        <pubDate>Tue, 29 May 2018 09:09:47 -0400</pubDate>
+        <link>http://dctechstories.com//posts/ioSpaces/</link>
+        <guid isPermaLink="true">http://dctechstories.com//posts/ioSpaces/</guid>
         
         <category></category>
         
