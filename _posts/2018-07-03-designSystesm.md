@@ -22,14 +22,14 @@ author: jessb
       <i>Elizabeth Barth</i>
         <ul>
           <li><a href="https://twitter.com/elizabethbarth">Twitter</a></li>
-          <li><a href="Elizabethbarth.com">Website</a></li>
+          <li><a href="www.Threespot.com">Website</a></li>
         </ul>
     </li>
     <li>
       <i>Dan Rader</i>
         <ul>
           <li><a href="https://twitter.com/danrdesign ">Twitter</a></li>
-          <li><a href="danrdesign.com">Website</a></li>
+          <li><a href="http://www.danrdesign.com/">Website</a></li>
         </ul>
     </li>
     <li>
