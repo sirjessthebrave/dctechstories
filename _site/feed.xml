@@ -4,11 +4,42 @@
     <title>DC Tech Stories</title>
     <description>DC Tech Stories is a podcast about technical workers in the DC Metro Area.
 </description>
-    <link>http://dctechstories.com//</link>
-    <atom:link href="http://dctechstories.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Jul 2018 09:51:37 -0400</pubDate>
-    <lastBuildDate>Tue, 03 Jul 2018 09:51:37 -0400</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 14 Aug 2018 20:19:20 -0400</pubDate>
+    <lastBuildDate>Tue, 14 Aug 2018 20:19:20 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>DC Tech Stories: LIVE SHOW!</title>
+        <description>&lt;p class=&quot;no-margin&quot;&gt;All Episodes
+DC Tech Stories: LIVE SHOW!
+August 15, 2018 Jessica Bell
+How did/will you learn how to code: Computer Science Degree? Bootcamp? Online videos? There are many ways to learn tech, but what comes with all of those pathways? Bootcamps are expensive, but traditional degrees are even more so! Learning online can be daunting and overwhelming and leaves you with fundamental gaps. Traditional degrees get you that theoretical background, but often lack real world skills you'll need on day 1 of that new job.
+&lt;/p&gt;
+&lt;p&gt;
+So we invited one of each to talk about the pros, cons, and realities of their learning journeys into tech.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;&lt;a href=&quot;https://twitter.com/uncompiled&quot;&gt;Chris Nguyen&lt;/a&gt;&lt;/strong&gt; has a degree in Computer Science and Linguistics from the University of Maryland and Masters in Computer Science. He now works as a Senior developer for The Washington Post&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://twitter.com/nitamarie_js&quot;&gt;Mary Griffus&lt;/a&gt;&lt;/strong&gt; graduated from General Assembly's Web Development Immersive program in 2016. She is a Software Engineer at HumanGeo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://twitter.com/marygriffus&quot;&gt;Anita Hall&lt;/a&gt;&lt;/strong&gt; is 100% self-taught, learning from tutorials, taking an apprenticeship and continues to gain skills on the job and from the people around her. She now works as a developer for The Washington Post
+&lt;/p&gt;
+&lt;script src=&quot;https://www.buzzsprout.com/108546/776390-dc-tech-stories-live-show.js?player=small&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Tue, 14 Aug 2018 09:09:47 -0400</pubDate>
+        <link>http://localhost:4000/posts/liveShow/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/liveShow/</guid>
+        
+        <category></category>
+        
+        
+        <category>posts</category>
+        
+      </item>
     
       <item>
         <title>Elizabeth Barth, Dan Rader, Jabali Williams, Mariesa Dale: Design Systems</title>
@@ -23,14 +54,14 @@
       &lt;i&gt;Elizabeth Barth&lt;/i&gt;
         &lt;ul&gt;
           &lt;li&gt;&lt;a href=&quot;https://twitter.com/elizabethbarth&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;Elizabethbarth.com&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.Threespot.com&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;
       &lt;i&gt;Dan Rader&lt;/i&gt;
         &lt;ul&gt;
           &lt;li&gt;&lt;a href=&quot;https://twitter.com/danrdesign &quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;danrdesign.com&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.danrdesign.com/&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;
@@ -53,8 +84,8 @@
 
 </description>
         <pubDate>Tue, 03 Jul 2018 09:09:47 -0400</pubDate>
-        <link>http://dctechstories.com//posts/designSystesm/</link>
-        <guid isPermaLink="true">http://dctechstories.com//posts/designSystesm/</guid>
+        <link>http://localhost:4000/posts/designSystesm/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/designSystesm/</guid>
         
         <category></category>
         
@@ -103,8 +134,8 @@
 
 </description>
         <pubDate>Tue, 26 Jun 2018 09:09:47 -0400</pubDate>
-        <link>http://dctechstories.com//posts/usds/</link>
-        <guid isPermaLink="true">http://dctechstories.com//posts/usds/</guid>
+        <link>http://localhost:4000/posts/usds/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/usds/</guid>
         
         <category></category>
         
@@ -117,7 +148,7 @@
         <title>Kris Lovejoy: Self taught engineer to chief global security officer</title>
         <description>&lt;p class=&quot;no-margin&quot;&gt;I had the chance to sit down with Kristen Lovejoy, a cyber security expert and founder here in DC. 
 She walks us through her career, what cyber security means to her, and what is most exciting and most terrifying about the field.
-Kristen served as IBM’s first chief global security officer and then went on to becoming a founder in the DC tech space. She is now CEO of BlueVector, a ‘network security [company] with state-of-the-art AI, sensing and responding to the world&#39;s most sophisticated threats in real time’.  If you want to hear more about her thoughts on security and risk, check out her Forbes Article ‘10 Security Essentials for CIOs’
+Kristen served as IBM’s first chief global security officer and then went on to becoming a founder in the DC tech space. She is now CEO of BlueVector, a ‘network security [company] with state-of-the-art AI, sensing and responding to the world's most sophisticated threats in real time’.  If you want to hear more about her thoughts on security and risk, check out her Forbes Article ‘10 Security Essentials for CIOs’
 &lt;/p&gt;
 &lt;script src=&quot;https://www.buzzsprout.com/108546/724944-kris-lovejoy-self-taught-engineer-to-chief-global-security-officer.js?player=small&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
@@ -138,8 +169,8 @@ Kristen served as IBM’s first chief global security officer and then went on t
 
 </description>
         <pubDate>Tue, 12 Jun 2018 09:09:47 -0400</pubDate>
-        <link>http://dctechstories.com//posts/krisL/</link>
-        <guid isPermaLink="true">http://dctechstories.com//posts/krisL/</guid>
+        <link>http://localhost:4000/posts/krisL/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/krisL/</guid>
         
         <category></category>
         
@@ -182,53 +213,8 @@ Kristen served as IBM’s first chief global security officer and then went on t
 
 </description>
         <pubDate>Tue, 29 May 2018 09:09:47 -0400</pubDate>
-        <link>http://dctechstories.com//posts/ioSpaces/</link>
-        <guid isPermaLink="true">http://dctechstories.com//posts/ioSpaces/</guid>
-        
-        <category></category>
-        
-        
-        <category>posts</category>
-        
-      </item>
-    
-      <item>
-        <title>Sam Bays, Kasey Randall, &amp; Vincent Wanga: The Three Musketeers of Design</title>
-        <description>&lt;p class=&quot;no-margin&quot;&gt;Today I have for you a tale as old as time… the ‘I’m moving to DC not knowing anyone and finding my place’ story.  We all know DC is a hub for people from ALL over the world (although let’s all be cognisant to not fall into the “no one is from DC trap”). With fantastic nightlife, a young vibrant population, lots of culture, and let’s face it, a ton of A type people who know how to network, moving to DC can be exhilarating and exciting to some and intimidating and terrible to others.  I talk to 3 recent-ish transplants on how they found each other and made their homes in DC
-&lt;/p&gt;
-&lt;script src=&quot;https://www.buzzsprout.com/108546/705284-sam-bays-kasey-randall-vincent-wanga-the-three-musketeers-of-design.js?player=small&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;
-  &lt;strong&gt;Links:&lt;/strong&gt; 
-  &lt;ul&gt;
-    &lt;li&gt;
-      &lt;i&gt;Vincent Wanga&lt;/i&gt;
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;https://twitter.com/TenTriangles &quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot; http://www.vwanga.com/ &quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;i&gt;Kasey Randall&lt;/i&gt;
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;https://twitter.com/toastycheesitz&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;http://kaseyrandall.com/&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;i&gt;Sam C. Bays&lt;/i&gt;
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;https://twitter.com/samcbays&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/samcbays/&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 29 May 2018 09:09:47 -0400</pubDate>
-        <link>http://dctechstories.com//posts/designMusketeers/</link>
-        <guid isPermaLink="true">http://dctechstories.com//posts/designMusketeers/</guid>
+        <link>http://localhost:4000/posts/ioSpaces/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/ioSpaces/</guid>
         
         <category></category>
         
